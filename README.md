@@ -1,6 +1,6 @@
 # Growflix
 
-Projeto Growflix, com links para vídeos do youtube - entrega do Projeto I Growdev
+Projeto Growflix, com links para vídeos do youtube - Entrega do Projeto I Growdev
 
 # Tecnologia
 
